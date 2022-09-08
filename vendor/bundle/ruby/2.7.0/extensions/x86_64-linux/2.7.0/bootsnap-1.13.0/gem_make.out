@@ -1,0 +1,15 @@
+current directory: /root/test-datepicker/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20220908-4981-r4w2sa.rb extconf.rb
+creating Makefile
+
+current directory: /root/test-datepicker/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /root/test-datepicker/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /root/test-datepicker/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220908-4981-s3tkqv/bootsnap
