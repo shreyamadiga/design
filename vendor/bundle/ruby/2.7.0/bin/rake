@@ -7,7 +7,7 @@
 #
 
 require 'rubygems'
-
+require 'require_relative'
 version = ">= 0.a"
 
 str = ARGV.first
