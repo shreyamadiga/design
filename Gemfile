@@ -73,10 +73,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
-  gem "pg"
 end
 group :production do
-  gem 'pg'
+  gem "pg"
 end
 
 gem "webpacker", "~> 5.4"
