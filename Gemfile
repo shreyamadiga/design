@@ -75,5 +75,8 @@ group :test do
   gem "webdrivers"
   gem "pg"
 end
+group :production do
+  gem 'pg'
+end
 
 gem "webpacker", "~> 5.4"
